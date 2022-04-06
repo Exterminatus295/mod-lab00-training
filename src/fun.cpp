@@ -1,7 +1,6 @@
 // Copyright 2022 UNN-IASR
 #include "fun.h"
-int x, n;
+int x, n, p;
 int64_t power(int64_t x, uint16_t n) {
-    x^n
-    return 1;
+    p = x^n;
 }
